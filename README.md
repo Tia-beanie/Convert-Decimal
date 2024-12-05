@@ -1,0 +1,1 @@
+Convert binary to decimal
